@@ -1,0 +1,17 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Data files (too large for GitHub)
+data/raw/
+.csv
+.xlsx
+
+# Python
+__pycache__/
+.pyc
+.ipynb_checkpoints/
+.env
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
