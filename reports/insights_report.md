@@ -182,4 +182,4 @@ rather than reactively.
 
 *Analysis conducted by Victor Adeyemi as part of a data analytics 
 portfolio project. Dataset sourced from Kaggle. Full code and 
-methodology available at github.com/[your-username]/spotify-streaming-trends-analysis*
+methodology available at github.com/[avikitoki]/spotify-streaming-trends-analysis*
