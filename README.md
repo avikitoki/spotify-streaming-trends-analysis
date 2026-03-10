@@ -1,4 +1,4 @@
-# [Project Title]
+# Spotify-streaming-trends-analysis
 Analyze listening patterns — what genres dominate, which artists are trending, how streams vary by time/country, and what makes a song hit the top charts
 
 ---
